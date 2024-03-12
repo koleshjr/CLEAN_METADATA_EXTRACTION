@@ -20,6 +20,14 @@ def preprocess_name(name):
         return name
     except:
         return name
+    
+    
+def clean_predictions(df):
+    strings_to_remove = ['lr', 'cr', 'deceased', 'titleno', 'plotno', 'portionno', 'lrno', 'crno', 'irno']
+    for s in strings_to_remove:
+        df['pred'] = df['pred'].str.replace(s, '')
+    return df
+
 def transform_submission(predicted_sub: str, sample_sub: str, output_file_path):
     sub = pd.read_csv(predicted_sub)
     sample_sub = pd.read_csv(sample_sub)
@@ -56,7 +64,6 @@ def transform_submission(predicted_sub: str, sample_sub: str, output_file_path):
     new_df = pd.DataFrame(new_data)
     final_sub = pd.merge(sample_sub[['id']], new_df, how ="left", on ="id")
     final_sub.pred = final_sub['pred'].apply(lambda x: preprocess_name(x))
-    final_sub.to_csv(output_file_path, index=False)
-    
+    final_sub = clean_predictions(final_sub)
 
-    
+    final_sub.to_csv(output_file_path, index=False)

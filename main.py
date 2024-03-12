@@ -86,29 +86,29 @@ if __name__ == "__main__":
         extractor = Extractor(llm, ExtractionOutput, Config.extraction_prompt)
         max_retries = 3 
 
-        # for row_index, row in classified_pdf.iterrows():
-        #     retries = 0
-        #     while retries < max_retries:
-        #         try:
-        #             # if row['classification_prediction'] == False:
-        #             #     classified_pdf.at[row_index, 'extraction_prediction'] = ""
-        #             #     break
-        #             # else:
-        #             pred = extractor.predict(row['text'])
-        #             print(row['page'], pred["result"])
-        #             classified_pdf.at[row_index, 'extraction_prediction'] = pred["result"]
-        #             classified_pdf.to_csv(output_file_path, index=False)
-        #             break  # Exit the retry loop if successful
-        #         except Exception as e:
-        #             print(f"An exception occurred: {e}")
-        #             retries += 1
-        #             print(f"Retrying extraction for row {row_index}")
-        #     else:
-        #         print(f"Maximum retries exceeded for row {row_index}. Setting extraction_prediction to empty string ")
-        #         classified_pdf.at[row_index, 'extraction_prediction'] = ""
+        for row_index, row in classified_pdf.iterrows():
+            retries = 0
+            while retries < max_retries:
+                try:
+                    # if row['classification_prediction'] == False:
+                    #     classified_pdf.at[row_index, 'extraction_prediction'] = ""
+                    #     break
+                    # else:
+                    pred = extractor.predict(row['text'])
+                    print(row['page'], pred["result"])
+                    classified_pdf.at[row_index, 'extraction_prediction'] = pred["result"]
+                    classified_pdf.to_csv(output_file_path, index=False)
+                    break  # Exit the retry loop if successful
+                except Exception as e:
+                    print(f"An exception occurred: {e}")
+                    retries += 1
+                    print(f"Retrying extraction for row {row_index}")
+            else:
+                print(f"Maximum retries exceeded for row {row_index}. Setting extraction_prediction to empty string ")
+                classified_pdf.at[row_index, 'extraction_prediction'] = ""
 
-        # # Save the updated classified_pdf to CSV after processing all rows
-        # classified_pdf.to_csv(output_file_path, index=False)
+        # Save the updated classified_pdf to CSV after processing all rows
+        classified_pdf.to_csv(output_file_path, index=False)
         print("Finished extraction")
         final_sub_path = os.path.join(Config.output_folder, f'experiment_{args.experiment}.csv')
         transform_submission(predicted_sub=output_file_path, sample_sub=Config.sample_sub_filepath,output_file_path= final_sub_path)
