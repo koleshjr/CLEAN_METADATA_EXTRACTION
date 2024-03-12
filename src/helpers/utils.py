@@ -65,5 +65,6 @@ def transform_submission(predicted_sub: str, sample_sub: str, output_file_path):
     final_sub = pd.merge(sample_sub[['id']], new_df, how ="left", on ="id")
     final_sub.pred = final_sub['pred'].apply(lambda x: preprocess_name(x))
     final_sub = clean_predictions(final_sub)
+    final_sub.drop_duplicates(subset = ['id'], inplace=True)
 
     final_sub.to_csv(output_file_path, index=False)

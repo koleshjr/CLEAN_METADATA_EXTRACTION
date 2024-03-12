@@ -78,10 +78,8 @@ if __name__ == "__main__":
                 
 
     elif args.task_type == 'extraction':
-        classified_path = "src\output\predicted_sub_new_5.csv"
+        classified_path = "src\output\classified_pdf.csv"
         classified_pdf = pd.read_csv(classified_path)
-        classified_pdf = classified_pdf[classified_pdf['answer']!= "[]"]
-        print(classified_pdf.shape)
         output_file_path = os.path.join(Config.output_folder, 'extracted_pdf.csv')
         extractor = Extractor(llm, ExtractionOutput, Config.extraction_prompt)
         max_retries = 3 
@@ -90,15 +88,15 @@ if __name__ == "__main__":
             retries = 0
             while retries < max_retries:
                 try:
-                    # if row['classification_prediction'] == False:
-                    #     classified_pdf.at[row_index, 'extraction_prediction'] = ""
-                    #     break
-                    # else:
-                    pred = extractor.predict(row['text'])
-                    print(row['page'], pred["result"])
-                    classified_pdf.at[row_index, 'extraction_prediction'] = pred["result"]
-                    classified_pdf.to_csv(output_file_path, index=False)
-                    break  # Exit the retry loop if successful
+                    if row['classification_prediction'] == False:
+                        classified_pdf.at[row_index, 'extraction_prediction'] = ""
+                        break
+                    else:
+                        pred = extractor.predict(row['text'])
+                        print(row['page'], pred["result"])
+                        classified_pdf.at[row_index, 'extraction_prediction'] = pred["result"]
+                        classified_pdf.to_csv(output_file_path, index=False)
+                        break  # Exit the retry loop if successful
                 except Exception as e:
                     print(f"An exception occurred: {e}")
                     retries += 1
