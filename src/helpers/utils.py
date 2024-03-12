@@ -29,23 +29,30 @@ def transform_submission(predicted_sub: str, sample_sub: str, output_file_path):
     for index, row in sub.iterrows():
         filename = row['file'].split('.')[0]
         extraction_predictions = ast.literal_eval(row['extraction_prediction'])
+        extraction_predictions = eval(row['extraction_prediction'])
 
         for extraction in extraction_predictions:
-            notice_number =extraction['gazette_notice_number']
 
-            for key, value in extraction.items():
-                if key != 'gazette_notice_number':
-                    if key == 'land_holder_names':
-                        key = 'name of the holder'
-                    elif key == 'land_registration_numbers':
-                        key = 'Registration numbers'
-                    elif key == 'land_location':
-                        key = 'Land location'
+            if isinstance(extraction, dict):
 
-                    id = f"{filename}_{notice_number}_{key}"
-                    id = id.replace("2022_VOL252", "2022_252")
-                    pred = value
-                    new_data.append({'id': id, 'pred': pred})
+                notice_number =extraction.get('gazette_notice_number', '')
+
+                for key, value in extraction.items():
+                    if key != 'gazette_notice_number':
+                        if key == 'land_holder_names':
+                            key = 'name of the holder'
+                        elif key == 'land_registration_numbers':
+                            key = 'Registration numbers'
+                        elif key == 'land_location':
+                            key = 'Land location'
+
+                        id = f"{filename}_{notice_number}_{key}"
+                        id = id.replace("2022_VOL252", "2022_252")
+                        pred = value
+                        new_data.append({'id': id, 'pred': pred})
+            else:
+                print("Invalid")
+                print(extraction)
     new_df = pd.DataFrame(new_data)
     final_sub = pd.merge(sample_sub[['id']], new_df, how ="left", on ="id")
     final_sub.pred = final_sub['pred'].apply(lambda x: preprocess_name(x))

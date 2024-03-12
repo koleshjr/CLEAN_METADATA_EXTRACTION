@@ -5,7 +5,7 @@ filename,page number,gazzete notice number,name of the holder,Registration numbe
 2008_VOL4,14,46,Mary Njeri Nganga,Dundori/Lanet Block 13/1,district of Nakuru
 2008_VOL4,14,47,Charles Muteru Wambugu,Gilgil/Cilgil Block 1/375,district of Nakuru
 2008_VOL4,14,48,Charles Muteru Wambugu,Njoro/Ngata Block 1/106,district of Nakuru
-2008_VOL4,14,49,Charles Gitonga Kariuki,Eldoret Mun/Block 21 (King'ong'o)/1544,district of Uasin Gishu
+2008_VOL4,14,49,Charles Gitonga Kariuki,Eldoret Mun/Block 21 (Kingongo)/1544,district of Uasin Gishu
 2008_VOL4,14,50,"Ibrahim Njama Mbugua, Anthony Mogusi Nyakoni",Uasin Gishu/Kimumu/1010,district of Uasin Gishu
 2008_VOL4,15,51,Grace Wairimu Njorage,"Eldoret. Mutt/Bleck 27/1295, ",district of Uasin Gishu
 2008_VOL4,15,52,Edward Ouma Juma, Eldoret Municipality/Block 21 (Kingongo)/475,district of Uasin Gishu
@@ -98,7 +98,7 @@ filename,page number,gazzete notice number,name of the holder,Registration numbe
 2016_VOL15,729,1028,Mymark Investments Limited,"13330/577, 129831",city of Nairobi in the Nairobi Area
 2016_VOL15,730,1029,Abdalla Suleiman,"31 Witu, 4755/1",Lamu in Witu District
 2016_VOL15,730,1030,The Public Trustee,"10451/2, 71294",district of Nakuru
-2016_VOL15,730,1031,Mount Pleasant Limited,"214/20/1/1, ",city of Nairobi in the Nairobi Area
+2016_VOL15,730,1031,Mount Pleasant Limited,214/20/1/1,city of Nairobi in the Nairobi Area
 2016_VOL15,730,1032,Mitsumi Computer Garage Limited,"209/2132, 63035",Nairobi County
 2016_VOL15,730,1033,Gladys Wamahiga Wahome,"12715/4625, 12715/55/3, 109608",Mavoko West
 2016_VOL15,730,1034,John Wafula Khisa,Kimilili/Kimilili/1661,district of Bungoma
@@ -138,29 +138,29 @@ filename,page number,gazzete notice number,name of the holder,Registration numbe
 2017_V0L118,4788,7797,Stephen Mungai Wainaina,Githunguri/Kanjai/2000,district of Kiambu
 2017_V0L118,4789,7798,John Mutuangu Mututho,Thika/Municipality Block 17/1471,district of Thika
 2017_V0L118,4789,7802,Antony Magondu Ndanga,Ngariama/Rungeto/90,district of Kirinyaga
-2017_V0L118,4789,7799,Nicolieta Mukami Rungu,Mitubiri/Wempa Block 2/103,district of Murang’a
-2017_V0L118,4789,7803,Esther Wangithi Ngotho,Mutira/Kanyei/1401 and 1342,district of Kirinyaga
-2017_V0L118,4789,7800,Elijah Muturi Njoroge,Loc. 2/Mariira/1798,district of Murang’a
+2017_V0L118,4789,7799,Nicolieta Mukami Rungu,Mitubiri/Wempa Block 2/103,district of Muranga
+2017_V0L118,4789,7803,Esther Wangithi Ngotho,"Mutira/Kanyei/1401 , 1342",district of Kirinyaga
+2017_V0L118,4789,7800,Elijah Muturi Njoroge,Loc. 2/Mariira/1798,district of Muranga
 2017_V0L118,4789,7804,"Ferdinand Kalevu Kinyumu, Margaret Ndunge Kalevu Kinyumu",Muputi/Kiima Kimwe/1953,district of Machakos
 2017_V0L118,4789,7801,Francis Maina Gakuu,Mwea/Ngucwi/770,district of Kirinyaga
-2017_V0L118,4789,7805,Isaiah Ndunda Mung’alu,Donyo Sabuk/Komarock Block 1/72820,district of Machakos
+2017_V0L118,4789,7805,Isaiah Ndunda Mungalu,Donyo Sabuk/Komarock Block 1/72820,district of Machakos
 2017_V0L118,4790,7806,shirini Eagles Investment Limited,Mavoko/Town Block 3/25612,district of Machakos
 2017_V0L118,4790,7810,Elizabeth Gichure,Kajiado/Keekonyokie/Ilkisumet/632,district of Kajiado
 2017_V0L118,4790,7807,"Esther Mbula Mwangangi, Samuel Muli Muunda, oseph Musyoka Muunda, Joshua Muli Muunda",Mavoko/Town Block 3/1017,district of Machakos
-2017_V0L118,4790,7811,Pius Nyambuga Mochoge,Kajiado/Loodariak/2731 and 2219,district of Kajiado
+2017_V0L118,4790,7811,Pius Nyambuga Mochoge,"Kajiado/Loodariak/2731 , 2219",district of Kajiado
 2017_V0L118,4790,7808,"Paul Mulangilo Ndilo, Sammy Munguti Ndilo",Wamunyu/Kambiti/265,district of Machakos
 2017_V0L118,4790,7812,"Daniel Kuria Njuguna, Catherine Wanjiru Kuria",Ngong/Ngong/61850,district of Kajiado
 2017_V0L118,4790,7809,Rael Chepkoech Kimeto,Kajiado/Kitengela/37915,district of Kajiado
-2017_V0L118,4790,7813,Purkoret Holdings Limited,"Cismara/Oleleshwa/780, 426, 267 and 435",district of Narok
+2017_V0L118,4790,7813,Purkoret Holdings Limited,"Cismara/Oleleshwa/780, 426, 267 , 435",district of Narok
 2017_V0L118,4791,7814,William Njuguna Mbuthia,Nyandarua/Ol Kalou Salient/628,district of Nyandarau
 2017_V0L118,4791,7818,Joseph Oginga Onyoni,South Mugirango/Bosinange/244,district of Kisii
 2017_V0L118,4791,7815,David Nyamu Mundia,Mutara/Mutara Block II/576,district of Laikipia
-2017_V0L118,4791,7819,Joseph Malakwen Lelei,"Nandi/Chepterit/809, Nandi/Kaptildil/451 and Nandi/Kamobo/1658",district of Nandi
+2017_V0L118,4791,7819,Joseph Malakwen Lelei,"Nandi/Chepterit/809, Nandi/Kaptildil/451 , Nandi/Kamobo/1658",district of Nandi
 2017_V0L118,4791,7816,Kalaile Parmeisa Kaparo,Laikipia/Nanyuki/Marura Block 3/4333 (Sweetwaters),district of Laikipia
 2017_V0L118,4791,7820,Nahason Njagi Mugo,Nthawa/Gitiburi/1323,district of Mbeere
 2017_V0L118,4791,7817,Kairu Nganga,Laikipia/Sipili/Donyoloip Block 2/13691 (Mutukanio),district of Laikipia
 2017_V0L118,4791,7821,Asman Shabani,Lembus/Chemogoch/393,district of Mogotio
-2017_V0L118,4792,7822,Edward Ombat Odongo,East Karachuonyo/Kamser Seka/1658 and 1402,district of Rachuonyo
+2017_V0L118,4792,7822,Edward Ombat Odongo,"East Karachuonyo/Kamser Seka/1658 , 1402",district of Rachuonyo
 2017_V0L118,4792,7826,Tingali Mwaringa Dadi,Malindi/Chakama Phase 1/458,district of Kilifi
 2017_V0L118,4792,7823,Ezra Dedan Otieno Otieno,North Ugenya/Karadolo/2161,district of Ugenya
 2017_V0L118,4792,7827,Philip Githongo Wainaina,Nthawa/Riandu/881,district of Mbeere
@@ -193,11 +193,11 @@ District"
 2017_VOL167,5788,10954,Foton East Africa Limited,"209/20048, 141773/1",city of Nairobi in Nairobi area
 2017_VOL167,5788,10955,Foton East Africa Limited,"209/20048, 141775/1",city of Nairobi in Nairobi area
 2017_VOL167,5789,10956, Diana Emily Bukachi Masafu,209/7282,city of Nairobi in Nairobi area
-2017_VOL167,5789,10957,Matabatu Investments Limited,"435/III/MN, .55798",south of Takaungu in Kilifi District
-2017_VOL167,5789,10958,Jacqueline Josephine Wanjiku,"434/III/MN, .55799",south of Takaungu in Kilifi District
+2017_VOL167,5789,10957,Matabatu Investments Limited,"435/III/MN, 55798",south of Takaungu in Kilifi District
+2017_VOL167,5789,10958,Jacqueline Josephine Wanjiku,"434/III/MN, 55799",south of Takaungu in Kilifi District
 2017_VOL167,5789,10959,Mbaru Lewa Mbaru,"433/III/MN, .55781",south of Takaungu in Kilifi District
 2017_VOL167,5789,10960,Albert Tsuma Tonya,"432/III/MN, . 55782",south of Takaungu in Kilifi District
-2017_VOL167,5789,10961,Isaiah Kiplang’at arap Cheluget, Kisumu/Municipality/Block 11/73,district of Kisumu
+2017_VOL167,5789,10961,Isaiah Kiplangat arap Cheluget, Kisumu/Municipality/Block 11/73,district of Kisumu
 2017_VOL167,5790,10962,James Nganga Mbugua, Nakuru/Rare/Naishi/820,district of Nakuru
 2017_VOL167,5790,10963,Benard Gitau Wanyoike,Nakuru/Rongai Settlement Scheme/147,district of Nakuru
 2017_VOL167,5790,10964, Moraa Agnes Nyamongo,Bahati/Engorusha Block 1/272,district of Nakuru
@@ -207,7 +207,7 @@ District"
 2017_VOL167,5790,10968,David Karanja Gitau,Muguga/Jet Scheme/1525,district of Kiambu
 2017_VOL167,5790,10969,Rosalid Wanja Mwangi,Nachu/Kikuyuini/184,district of Kiambu
 2017_VOL167,5791,10970,Jackson Kiamba Kioko,Mwala/Mango/55,district of Machakos
-2017_VOL167,5791,10971, Daudi Kitonyi Mulinge,Machakos/Kaliluni/2008 and 2327,district of Machakos
+2017_VOL167,5791,10971, Daudi Kitonyi Mulinge,"Machakos/Kaliluni/2008 , 2327",district of Machakos
 2017_VOL167,5791,10972,John Mulwa Nguyo,Kangundo/Muisuni/1118,district of Machakos
 2017_VOL167,5791,10973,John Mulwa Nguyo,Kangundo/Muisuni/1271,district of Machakos
 2017_VOL167,5791,10974,Daniel Wahiu Wakari,Laikipia/Mbuyu/456,district of Laikipia
@@ -216,16 +216,16 @@ District"
 2017_VOL167,5791,10977,Stanley Kihuria Wachira,Laikipia/Daiga/Ethi Block 2/168,district of Laikipia
 2017_VOL167,5792,10978,Dominic Kinyanjui Njoroge,"Naivasha/Mwichiringiri Block
 4/1042",district of Naivasha
-2017_VOL167,5792,10979,Clement Kiarie Gachie,Naivasha/Mwichiringiri Block 4/3833 and 3844,district of Naivasha
+2017_VOL167,5792,10979,Clement Kiarie Gachie,"Naivasha/Mwichiringiri Block 4/3833 , 3844",district of Naivasha
 2017_VOL167,5792,10980,"Peter Gacheru Waweru, Patrick Mburu
 Njoroge",Kajiado/Olchoro/Onyore/304,district of Kajiado
-2017_VOL167,5792,10981,Mukururia Muturi,Kajiado/Kipeto/588 and 587,district of Kajiado
+2017_VOL167,5792,10981,Mukururia Muturi,"Kajiado/Kipeto/588 , 587",district of Kajiado
 2017_VOL167,5792,10982,Jane Ngina Muhia,Ruiru/Ruiru East Block 7/223,district of Thika
 2017_VOL167,5792,10983, Stanley Kiunga Rukaria,Nkuene/Nkumari/2560,district of Meru
 2017_VOL167,5792,10984,Josephine Nyakeru Gikunju,Ntima/Igoki/3485,district of Meru
 2017_VOL167,5792,10985,Doris Regeria Kirera,Nthimbiri/Abonyai/481,district of Meru
 2017_VOL167,5793,10986,Fredrick Jackson Karori,Karingani/Ndagani/2250,district of Meru South
-2017_VOL167,5793,10987,Ernest Munyi Macharia,Embu/Kamarandi/647 and 471,district of Mbeere
+2017_VOL167,5793,10987,Ernest Munyi Macharia,"Embu/Kamarandi/647 , 471",district of Mbeere
 2017_VOL167,5793,10988,Burudi Muchika,Kakamega/Surungai/155,district of Kakamega
 2017_VOL167,5793,10989,Samson Lucheli,South Kabras/Bushu/1985,district of Kakamega
 2017_VOL167,5793,10990,James Mwangi Kinyago,Konyu/Gakuyu/754,district of Nyeri
@@ -236,12 +236,12 @@ Njoroge",Kajiado/Olchoro/Onyore/304,district of Kajiado
 2017_VOL167,5794,10995,Peter Wangai Kanunu," Magutu/Ragati/1555, Konyu/Baricho/3709",district of Nyeri
 2017_VOL167,5794,10996,"Joyce Wanjira Mathenge, Serah Nyakiere Mathenge", Iriaini/Kiaguthu/1430,district of Nyeri
 2017_VOL167,5794,10997,Mathew Kamau Wambugu,Othaya/Kiandemi/1354,district of Nyeri
-2017_VOL167,5794,10998,"Dickson Muthike Githinji, Rosecate Njoki Mwaniki",Ngariama/Lower/Ngariama/2329 and 2330,district of Kirinyaga
-2017_VOL167,5794,10999,Joseph Maina Gachanja,Loc.15/Kangure/1308,district of Murang’a
-2017_VOL167,5794,11000,John Mutuangu Mututho,Loc.15/Kimathe/945,district of Murang’a
+2017_VOL167,5794,10998,"Dickson Muthike Githinji, Rosecate Njoki Mwaniki","Ngariama/Lower/Ngariama/2329 , 2330",district of Kirinyaga
+2017_VOL167,5794,10999,Joseph Maina Gachanja,Loc.15/Kangure/1308,district of Muranga
+2017_VOL167,5794,11000,John Mutuangu Mututho,Loc.15/Kimathe/945,district of Muranga
 2017_VOL167,5794,11001,Jackson Gucha Gecha ,Suna East/Wasweta I/6910,district of Migori
 2017_VOL167,5795,11002, Irene Chepngetich Rotich,Eldoret/Municipality Block 9/1198,district of Uasin Gishu
-2017_VOL167,5795,11003,Jaston Magotsi Anyonge,Eldoret/Municipality Block 21 (King’ong’o)/599,district of Uasin Gishu
+2017_VOL167,5795,11003,Jaston Magotsi Anyonge,Eldoret/Municipality Block 21 (Kingongo)/599,district of Uasin Gishu
 2017_VOL167,5795,11004,"Esther Wangui Ngesa, Joseph Okwaro Ngesa","Uasin Gishu/Kimumu
 Settlement Scheme/3150",district of Uasin Gishu
 2017_VOL167,5795,11005,David Ongoro Orioki,Majoge/Boochi/2472,district of Kisii
@@ -264,7 +264,7 @@ Settlement Scheme/3150",district of Uasin Gishu
 2017_VOL167,5797,11022,Chege Njeke,"Tinganga Cianda Block 1/1133 and
 1/1135",district of Kiambu
 2017_VOL167,5797,11023,Nahashoni Kiai,Kirimukuyu/Kiria/766,district of Nyeri
-2017_VOL167,5797,11024,M’Arimi Muchugu,Nkuene/U-Mikumbune/1286,district of Meru
+2017_VOL167,5797,11024,MArimi Muchugu,Nkuene/U-Mikumbune/1286,district of Meru
 2017_VOL167,5798,11025,Mbijiwe Kaiyanthi,Abothuguchi/L-Kiija/715,district of Meru
 2017_VOL167,5798,11026,Jacob Njiru Mbarire,Kagaari/Kigaa/4500,district of Embu
 2017_VOL167,5798,11027,William Odiel Okumu,East Gem/Nyandiwa/91,district of Siaya
@@ -280,8 +280,8 @@ Municipality in Mombasa District"
 2018_VOL113,3184,9390,"Luaiy Abdalla Ahmed Fadhil, Khadija Mohammed Ahmed Fadhil",XV/303,Mombasa Municipality in Mombasa District
 2018_VOL113,3184,9394,Ngundu Farmers Co-operative Society Limited,126/234,district of Nairobi
 2018_VOL113,3185,9395,William Chesulut Lelei,Eldoret/Municipality Block 21 (Kingongo)2057,Eldoret/Municipality
-2018_VOL113,3185,9399,James Maina Bernard,3/2176,district of Nakuru
-2018_VOL113,3185,9396,William Chesulut Lelei,Eldoret/Municipality Block 21 (King’ong’o)/2031,district of Uasin Gishu
+2018_VOL113,3185,9399,James Maina Bernard,Mar-76,district of Nakuru
+2018_VOL113,3185,9396,William Chesulut Lelei,Eldoret/Municipality Block 21 (Kingongo)/2031,district of Uasin Gishu
 2018_VOL113,3185,9400,Philip Muchiri Karuga,Bahati/Kabatini Block 1/904,district of Nakuru
 2018_VOL113,3185,9397,Mariserah Kemunto Nyangweso,Molo South/Langwenda Block 9/173 (Ikumbi),district of Nakuru
 2018_VOL113,3185,9401,Nyambura Kariuki Wachira,"Kiambogo/Kiambogo Block 2/8825
@@ -290,9 +290,9 @@ Municipality in Mombasa District"
 Jack)",district of Nakuru
 2018_VOL113,3185,9402,John Magalu Onono,Kisumu/Korando/4232,district of Kisumu
 2018_VOL113,3186,9403,"James Otieno Adede, Rosecloy Awino
-Milanya",Kisumu/Manyatta “A”/1659,district of Kisumu
+Milanya",Kisumu/Manyatta A�/1659,district of Kisumu
 2018_VOL113,3186,9407,"Johnson Mukhwana, ",S/Kabras/Chemuche/1790,district of Kakamega
-2018_VOL113,3186,9404,Paul Kiboi Mwangi,Ruguru/Kiamariga/2602 and 2603,district of Nyeri
+2018_VOL113,3186,9404,Paul Kiboi Mwangi,"Ruguru/Kiamariga/2602 , 2603",district of Nyeri
 2018_VOL113,3186,9408,Josephat Ihachi Ingosi,Isukha/Mugomari/1066,district of Kakamega
 2018_VOL113,3186,9405,Margrey Kanini Njagi,Ngandori/Kirigi/5226,district of Embu
 2018_VOL113,3186,9409,Festo Wakhungu Zefania,Kitale/Municipality Block 18/Bidii/697,district of Trans Nzoia
@@ -304,7 +304,7 @@ Milanya",Kisumu/Manyatta “A”/1659,district of Kisumu
 2018_VOL113,3187,9416,Francis Kariuki Ngiri,Mwerua/Kagio/8353,district of Kirinyaga
 2018_VOL113,3187,9413,Charles Kimani Mwangi,Loc. 19/Rwathia/3008,district of Kihoya
 2018_VOL113,3187,9417,Michael Wanjohi Wanjira,Mwerua/Mukure/2682,district of Kirinyaga
-2018_VOL113,3187,9414,"Grace Njeri Ndungu, Jonathan Kabiaru Ndugu",Loc. 14/Kairo/1135,district of Murang’a
+2018_VOL113,3187,9414,"Grace Njeri Ndungu, Jonathan Kabiaru Ndugu",Loc. 14/Kairo/1135,district of Muranga
 2018_VOL113,3187,9418,Benson Maina Kabau,Mwerua/Kanyokora/1318,Karatina in the Republic of Kenya
 2018_VOL113,3188,9419,Paul Wakahiu Mugue,Naivasha/Maraigushu Block 4/1354,district of Kitale
 2018_VOL113,3188,9423,Richard James Mwirichia,Nyaki/Kithoka/4338,district of Meru
@@ -313,10 +313,10 @@ Milanya",Kisumu/Manyatta “A”/1659,district of Kisumu
 2018_VOL113,3188,9421,Grace Wanjiru Njogu,Laikipia/Solio Ranch/1945,"Mweiga, Nyeri, in the Republic of Kenya"
 2018_VOL113,3188,9425,Richard James Mwirichia,Nyaki/Kithoka/4340,district of Meru
 2018_VOL113,3188,9422,Veronicah Nyokabi Giwa,Nyandarua/Mbuyu/426,district of Nyandarua
-2018_VOL113,3188,9426,Beatrice Wanja M’Tuerandu,Ntima/Igoki/8767,district of Meru
+2018_VOL113,3188,9426,Beatrice Wanja MTuerandu,Ntima/Igoki/8767,district of Meru
 2018_VOL113,3189,9427,Joseph Murianki Marete,Kiirua/Kiirua/1427,district of Meru
 2018_VOL113,3189,9431,Samuel Nzioka Sila,Kalama/Katanga/269,district of Makueni
-2018_VOL113,3189,9428,Jenesio Mutethia M’Kairanya,Nyaki/Thuura/4191,district of Meru
+2018_VOL113,3189,9428,Jenesio Mutethia MKairanya,Nyaki/Thuura/4191,district of Meru
 2018_VOL113,3189,9432,Joel Mulle Mutungi,Mavoko/Town Block 12/213,district of Machakos
 2018_VOL113,3189,9429,Francis Kithinji,Igoji/Gikui/1867,district of Meru
 2018_VOL113,3189,9433,Shamba Poa Investment Limited,Mavoko Town Block 3/5627,district of Machakos
@@ -339,13 +339,13 @@ Nyambane Mbunya",Timboroa/Timboroa Block I (Nyakio)/539,district of Koibatek
 2018_VOL113,3191,9446,Shafii Yoti Onyango,East Kanyada/Kanyadier/6149,district of Homa Bay
 2018_VOL113,3191,9450,Joyce Kwamboka Orina,Nyaribari Chache/B/B/Boburia/14182,district of Kisii
 2018_VOL113,3192,9451,Gati Chacha Kegocha,B/Buhiringera/192,district of Kuria
-2018_VOL113,3192,9455,Mwinyi Khamisi Mwinyiaaji,Kwale/Ng’ombeni/745,district of Kwale
+2018_VOL113,3192,9455,Mwinyi Khamisi Mwinyiaaji,Kwale/Ngombeni/745,district of Kwale
 2018_VOL113,3192,9452,Tom Kenga,Kilifi/Mtwapa/1839,district of Kilifi
 2018_VOL113,3192,9456,"Mwalimu Fadhili, ",Kwale/Tiwi/1039,district of Kwale
 2018_VOL113,3192,9453,Abdalla Awadh Baadel,Kwale/Shimba North/Kundutsi A/1337,district of Kwale
 2018_VOL113,3192,9457,"Mary Nyambura Thuo, James Waiganjo
 Thuo, ",209/3348,city of Nairobi in Nairobi Area
-2018_VOL113,3192,9454,Mohamed Salim M’Maka,Kwalee/Majoreni/125,district of Kwale
+2018_VOL113,3192,9454,Mohamed Salim MMaka,Kwalee/Majoreni/125,district of Kwale
 2018_VOL113,3192,9458,Nancy Njoki Githere,1008/61,"city of 
 Nairobi in the Nairobi Area, "
 2018_VOL113,3193,9459,Gambusi Limited,170/30 (original No. 170/21/3),south east of Limuru Town in Kiambu District
@@ -361,7 +361,7 @@ Anthony Burugu",Gakawa/Kahurura BlockI/Ichuga/313,district of Nyeri
 2018_VOL113,3194,9470,Waruru Mithamo Wachira,Nyeri/Narumoru/827,district of Nyeri
 2018_VOL113,3194,9468,Irungu Kanyuku,Subukia/Subukia West 1/169,district of Nakuru
 2018_VOL113,3194,9471,Muya s/o Gituto,Kirimukuyu/Mutathiini/656,district of Nyeri
-2018_VOL113,3194,9469,Crispo Wahome Miano,Gakawa/Githima Bk I/Burguret/602 and 603,district of Nyeri
+2018_VOL113,3194,9469,Crispo Wahome Miano,"Gakawa/Githima Bk I/Burguret/602 , 603",district of Nyeri
 2018_VOL113,3194,9472,Muthoni w/o Mwea,Kirimukuyu/Mutathiini/672,district of Nyeri
 2018_VOL113,3195,9473,Nyaga Kamirichi,Gaturi/Weru/831,district of Embu
 2018_VOL113,3195,9476,Ikaba Mukundi,Ruiru West Block 1/2853,district of Thika
@@ -375,7 +375,7 @@ Anthony Burugu",Gakawa/Kahurura BlockI/Ichuga/313,district of Nyeri
 2018_VOL113,3196,9483,John Ongeche Ajuoga,South Ugenya/Ambira/1737,district of Ugunja
 2018_VOL113,3196,9481,John Michael Ohas,Siaya/Mulaha/2050,district of Siaya
 2018_VOL113,3196,9484,"Michael Onyango Nyamwadha, George
-Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283",district of Ugunja
+Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 , 1283",district of Ugunja
 2018_VOL113,3196,9485,Zablon Onduto,Central Kasipul/Kachieng/377,district of Rachuonyo
 2018_VOL113,3197,9486,Teresia Anyango,Central Kasipul/Kachieng/754,district of  Rachuonyo
 2022_VOL109,3426,6624,Mary Anne Isabella Nolin,"209/8736, 39387/1",City of Nairobi in the Nairobi Area
@@ -388,12 +388,12 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2022_VOL109,3426,6631,Daykio Plantations Limited,"20728/104, 181583/1",South of Ruiru Township in Kiambu District
 2022_VOL109,3427,6632,"Yusuf Abdulrahman Nzibo, Ashah Wamuthoni Abdulrehman","36/VII/714, 60976/1",City of Nairobi in the Nairobi Area
 2022_VOL109,3427,6635,"Abdulaziz Ahmed Mohamed, Hassan Ahmed Mohamed",Mombasa Block/XVI/1284,district of Mombasa
-2022_VOL109,3427,6633,Kabundu Holdings Limited,"7771/9, 7771/10, 7771/11, 7771/12, 7771/13, 7771/14, 7771/15, 7771/17, 7771/18, 7771/19, 7771/20, 7771/16 and 7771/21",City of Nairobi in the Nairobi Area
+2022_VOL109,3427,6633,Kabundu Holdings Limited,"7771/9, 7771/10, 7771/11, 7771/12, 7771/13, 7771/14, 7771/15, 7771/17, 7771/18, 7771/19, 7771/20, 7771/16 , 7771/21",City of Nairobi in the Nairobi Area
 2022_VOL109,3427,6636,"Ali Ahmed Taib, Walid Said Sheikh","3962/I/MN, 20860",Mombasa Municipality in Mombasa District
 2022_VOL109,3427,6637,Shabbir Ahmed Chaudhry,"270 Mambrui, 7232/1",Kilifi Municipality in Kilifi District
 2022_VOL109,3427,6634,Charles Ojwang Okango,,district of Mombasa
 2022_VOL109,3427,6638,Shabbir Ahmed Chaudhry,,Kilifi Municipality in Kilifi District
-2022_VOL109,3428,6639,Francis Kinuthia Mwangi,Loc. 1/Chomo/560,district of Murang’a
+2022_VOL109,3428,6639,Francis Kinuthia Mwangi,Loc. 1/Chomo/560,district of Muranga
 2022_VOL109,3428,6642,Patrick Amala Bala,Kisumu/Kogony/790,district of Kisumu
 2022_VOL109,3428,6643,Erick Omuodo Ounga,Kisumu/Dago/2247,district of Kisumu
 2022_VOL109,3428,6640,Henry Kogo,2177/113,South West of Kitale Municipality in the Trans Nzoia District
@@ -402,22 +402,22 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2022_VOL109,3428,6645,Godfrey Ogola Alos,Kisumu/Nyaluunya/6426,district of Kisumu
 2022_VOL109,3429,6646,Ambroe Otieno Nyunja,Kisumu/Nyalunya/6427,district of Kisumu
 2022_VOL109,3429,6650,Patrick Mwerese Miheso,Kakamega/Iguhu/1259,district of Kakamega
-2022_VOL109,3429,6647,Vitalis Olang Olang,Kisumu/Nyalunya/1082 and 1183,district of Kisumu
+2022_VOL109,3429,6647,Vitalis Olang Olang,"Kisumu/Nyalunya/1082 , 1183",district of Kisumu
 2022_VOL109,3429,6651,Patrick Mwerese Miheso,Kakamega/Iguhu/737,district of Kakamega
 2022_VOL109,3429,6648,Philip Obaga Liboyi,Butsotso/Shikoti/7188,district of Kakamega
 2022_VOL109,3429,6652,Boaz Khamasi Tsimonjero,Isukha/Shinyalu/1659,district of Kakamega
 2022_VOL109,3429,6649,Patrick Mwerese Miheso,Kakamega/Iguhu/740,district of Kakamega
 2022_VOL109,3429,6653,Nelson Kisali Adeya,Eldoret Municipality/Block 12/3890,district of Uasin Gishu
 2022_VOL109,3430,6654,Nelson Kisali Adeya,Eldoret Municipality/Block 21(Kingongo)/135,district of Uasin Gishu
-2022_VOL109,3430,6658,Margaret Wanjiru Kamau,Dundori/Lanet Block 5/13 (Kiamunyeki “A”),district of Nakuru
+2022_VOL109,3430,6658,Margaret Wanjiru Kamau,Dundori/Lanet Block 5/13 (Kiamunyeki A�),district of Nakuru
 2022_VOL109,3430,6655,David Thuo Ngugi,Laikipia/Marmanet/583,
 2022_VOL109,3430,6659,Solomon Nganga Kiarie,Elburgon/Turi Block 1/38 (Michatha),district of Kisumu
-2022_VOL109,3430,6656,John Githiari Kanyoni,Marmanet/North/Rumuruti Block2/791 (Ndurumo),
+2022_VOL109,3430,6656,John Githiari Kanyoni,Marmanet/North/Rumuruti Block2/791,
 2022_VOL109,3430,6660,Grace Nduta Kamau,Nyandarua/Melangine/4588,district of Nyandarua
 2022_VOL109,3430,6657,"Charles Osoro Makone, David Manyange Mogere",Nakuru Municipality Block 17/46,district of Nakuru
 2022_VOL109,3430,6661,Peter Macharia Kiburio ,Nyandarua/Kahuru/6184,district of Nyandarua
-2022_VOL109,3431,6662,Margaret Nyangugi Mburu,"Nyandarua/Ndaragwa Ndaragwa Block 4 (Murichu)/606, 634 and 727",district of Murang’a
-2022_VOL109,3431,6663,Margaret Wanjiru Kamau,Dundori/Lanet Block 5/14 (Kiamunyeki “A”),district of Nakuru
+2022_VOL109,3431,6662,Margaret Nyangugi Mburu,"Nyandarua/Ndaragwa Ndaragwa Block 4 (Murichu)/606, 634 , 727",district of Muranga
+2022_VOL109,3431,6663,Margaret Wanjiru Kamau,Dundori/Lanet Block 5/14 (Kiamunyeki A�),district of Nakuru
 2022_VOL109,3431,6664,Ricco Homes and Developers Limited,"Laikipia Nanyuki West Timau Block 1/2257, 2225, 2264, 2224 (Mutirithia)",district of Laikipia
 2022_VOL109,3431,6665,Ricco Homes and Developers Limited,"Laikipia Nanyuki West Timau Block 1/2218, 2251, 2255, 2260 (Mutirithia)",district of Laikipia
 2022_VOL109,3431,6666,Ricco Homes and Developers Limited,"Laikipia Nanyuki West Timau Block 1/2252, 2234, 2245, 2221, 2223 (Mutirithia)",district of Laikipia
@@ -438,13 +438,13 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2022_VOL109,3433,6681,"Linus Mbora Ben, Joseph Maina Mwangi",Ruiru kiu Block 10(Mahiira)/279,district of Ruiru
 2022_VOL109,3433,6682,George Waweru Mwaura ,Ruiru East/Juja East Block 2/44881,district of Ruiru
 2022_VOL109,3433,6683,Peter Kimuyu Kariuki,Kiganjo/Mundoro/1687,district of Gatundu
-2022_VOL109,3433,6684,"Gabriel Mwangi Thumbi, Kellen Nyambura Thumbi",Loc. 20/Githuri/2846,district of Murang’a
-2022_VOL109,3434,6685,Jane Wanjiru Mwangi,Loc.14/Gakurwe/1169,district of Murang’a
-2022_VOL109,3434,6686,Peter Kamau Karanja,Loc. 5/Gitura/3070,district of Murang’a
-2022_VOL109,3434,6687,Isabella Nduta,Loc 4/Gakui/709,district of Murang’a
-2022_VOL109,3434,6688,Josphat Gichure Mwangi,Loc. 19/Rwathia/2374,district of Murang’a
-2022_VOL109,3434,6689,Simon Kamande Ngugi,Makuyu/Makuyu Block 1/9829,district of Murang’a
-2022_VOL109,3434,6690,Veronica Ruguru Kariungi,Ngariama/Thirikwa/720,district of Murang’a
+2022_VOL109,3433,6684,"Gabriel Mwangi Thumbi, Kellen Nyambura Thumbi",Loc. 20/Githuri/2846,district of Muranga
+2022_VOL109,3434,6685,Jane Wanjiru Mwangi,Loc.14/Gakurwe/1169,district of Muranga
+2022_VOL109,3434,6686,Peter Kamau Karanja,Loc. 5/Gitura/3070,district of Muranga
+2022_VOL109,3434,6687,Isabella Nduta,Loc 4/Gakui/709,district of Muranga
+2022_VOL109,3434,6688,Josphat Gichure Mwangi,Loc. 19/Rwathia/2374,district of Muranga
+2022_VOL109,3434,6689,Simon Kamande Ngugi,Makuyu/Makuyu Block 1/9829,district of Muranga
+2022_VOL109,3434,6690,Veronica Ruguru Kariungi,Ngariama/Thirikwa/720,district of Muranga
 2022_VOL109,3434,6691,Francis Gichobi,Kirinyaga/Marurumo/817,district of Kirinyaga
 2022_VOL109,3434,6692,Charles Gichangi Nyaga,Mwerua/Kagio-ini/2459,district of Kirinyaga
 2022_VOL109,3435,6693,Luke Gathuuri Maina,Mwerua/Kabiriri/4489,district of Kirinyaga
@@ -453,14 +453,14 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2022_VOL109,3435,6696,Nicera Kaura Kariuki,Gaturi/Githimu/8157,district of Embu
 2022_VOL109,3435,6697,"Romanus Odhiambo Otieno, Pamela awuor Ochieng",Nyaki/kithoka/5739,district of Meru
 2022_VOL109,3435,6698,Cecilia Wairimu Njani,Nthima/Igoki/6299,district of Meru
-2022_VOL109,3435,6699,Joel Kithela M’Anampiu,Njihia/Burieruri/4755,district of Meru North
-2022_VOL109,3435,6700,Jenard Josiah Nyaga,"Mbeti/Kirima/3968, 3969, 3971, 3974, 3973, 3942, 3943, 3944 and 3945",district of Mbeere
+2022_VOL109,3435,6699,Joel Kithela MAnampiu,Njihia/Burieruri/4755,district of Meru North
+2022_VOL109,3435,6700,Jenard Josiah Nyaga,"Mbeti/Kirima/3968, 3969, 3971, 3974, 3973, 3942, 3943, 3944 , 3945",district of Mbeere
 2022_VOL109,3436,6701,"Josphat Githinji Kariithi, Joan Njeri Macharia",Nthawa/Riandu/632,district of Mbeere
 2022_VOL109,3436,6702,Emilio Nyaga Elijah,Evurore/Kathera/2061,district of Mbeere
 2022_VOL109,3436,6703,Douglas Gachoki Mugo,Mavoko Town Block 3/29284,district of Machakos
 2022_VOL109,3436,6704,Leonard Ogonyo Onsongo,Mavoko Town Block 78 Wanjohi)/165,district of Machakos
-2022_VOL109,3436,6705,Anthony Mwangi Kariuki,Kithimani/Kithimani “A”/6114,district of Machakos
-2022_VOL109,3436,6706,Kutu King’ei,Masinga/Kangonde/3920,district of Machakos
+2022_VOL109,3436,6705,Anthony Mwangi Kariuki,Kithimani/Kithimani A�/6114,district of Machakos
+2022_VOL109,3436,6706,Kutu Kingei,Masinga/Kangonde/3920,district of Machakos
 2022_VOL109,3436,6707,Munyao Chuli Mutinda,Mulango/Kangunga/1232,district of Kitui
 2022_VOL109,3436,6708,Munyao Malombe,Mutonguni/Kauwi/973,district of Kitui
 2022_VOL109,3437,6709,Maingi Makali,Kanyongonyo/Nzambia/597,district of Kitui
@@ -469,7 +469,7 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2022_VOL109,3437,6712,Noah Tota ole Kibelekenya,Narok/CIS Mara/Entiani/94,district of Narok
 2022_VOL109,3437,6713,Shem Ogega Okemwa,Bassi/Bogetaorio II/4215,district of Kisii
 2022_VOL109,3437,6714,Fredirck Ombati Nyaruri,Wanjare/Bokoire/7008,district of Kisii
-2022_VOL109,3437,6715,Mutua Nguu Muriki,Tharaka/Tunyai“A”/2400 and 2401,district of Tharaka
+2022_VOL109,3437,6715,Mutua Nguu Muriki,"Tharaka/TunyaiA�/2400 , 2401",district of Tharaka
 2022_VOL109,3437,6716,Jared Odalo Okech,East Gem/Gongo/508,district of Siaya
 2022_VOL109,3438,6717,Daudi Oluoch Ochola,Lambwe West B/2017,district of Homa Bay
 2022_VOL109,3438,6718,Wilkista Agwena Mwai,Kanyamwa/Kajwang/Kachola/Kadwet/891,district of Homa Bay
@@ -479,10 +479,10 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2022_VOL109,3438,6722,Walter Okano Oyuke,Kanyamwa/Kabonyo/Kwandiku/1481,district of Homa Bay
 2022_VOL109,3438,6723,Erick Ambuso ochieng,Kisumu/Kochieng/4853,district of Nyando
 2022_VOL109,3438,6724,Salfanus Sombe Agai,Kisumu/Wawidhi A I/4726,district of Nyando
-2022_VOL109,3439,6725,Benjamin Ouma Otiende,"Kisumu/Kamagaga/6569, 5509, 266, 6588, 1677, 1670 and 58",district of Nyando
+2022_VOL109,3439,6725,Benjamin Ouma Otiende,"Kisumu/Kamagaga/6569, 5509, 266, 6588, 1677, 1670 , 58",district of Nyando
 2022_VOL109,3439,6726,Jaramogi Olende Nyindodo,Kisumu/Kabodho West/3041,district of Nyando
 2022_VOL109,3439,6727," Elvis Mwaringa Ngowa, Charo Katana Mwaringa",Kilifi/Mtondia/386,district of Kilifi
-2022_VOL109,3439,6728, Hamadi Shehe Shunguli,Kwale/Msambweni “A”/1040,district of Kwale
+2022_VOL109,3439,6728, Hamadi Shehe Shunguli,Kwale/Msambweni A�/1040,district of Kwale
 2022_VOL109,3439,6729,Gloria Muthio Keli Kiilu,12648/145,Mavoko Municipality in Machakos District
 2022_VOL109,3439,6730,Joyce Martin,1144/709,Naivasha Township in theNakuru District
 2022_VOL109,3439,6731,Sloane Square Limited,Mombasa Block XXVI/170,Mombasa Municipality in Mombasa District
@@ -491,7 +491,7 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2022_VOL109,3440,6734,Loise Jelagat Cheruiyot,Sergoit/Koiwoptaoi Block 3 (Shamtrek)501,district of Uasin Gishu
 2022_VOL109,3440,6735,Kibelyo arap Chumba ,Pioneer/Ngeria Block 1 (Eatec)/2081,district of Uasin Gishu
 2022_VOL109,3440,6736,Kibelyo arap Chumba ,Pioneer/Ngeria Block 1 (Eatec)/2080,district of Uasin Gishu
-2022_VOL109,3440,6737,John Mwaura Kimani,Mau Narok/siapei Block 3/370 (Mutukanio “A”),district of Nakuru
+2022_VOL109,3440,6737,John Mwaura Kimani,Mau Narok/siapei Block 3/370 (Mutukanio A�),district of Nakuru
 2022_VOL109,3440,6738,Odera Nyagoro,parcel No. KSM/Kamagaga/4925,
 2022_VOL109,3440,6739,Ali Athumani Mwachirenje,Kwale/Ukunda SS/1667,district of Kwale
 2022_VOL109,3441,6740,Surayan Yusuph Juma,Kwale/Galu Kinondo/642,district of Kwale
@@ -504,13 +504,13 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2022_VOL109,3442,6747,Athanasio Ngesa Nyapolo ,South Sakwa/Alego/390, district of Migori
 2022_VOL109,3442,6748,Perusi Anyona Aluse,East Bunyore/Ebuchitwa/2487,district of Emuhaya
 2022_VOL109,3442,6749,Serina Asiavukhaya Mudeitsi,Tiriki/Serem/140,district of Hamisi
-2022_VOL109,3442,6750,Pheris Wanjiku ,Loc. 15/Kimathi/756,district of Murang’a
+2022_VOL109,3442,6750,Pheris Wanjiku ,Loc. 15/Kimathi/756,district of Muranga
 2022_VOL109,3442,6751,Justus Ezekiel Mbogo ,Gichugu/Settlement/Scheme/763,district of Kirinyaga
 2022_VOL109,3443,6752,ustus Ezekiel Mbogo ,Baragwe/Thumaita/431,district of Kirinyaga
 2022_VOL109,3443,6753,Mary Mukeu Njiru alias Mary Mukeu Erasto alias Mary Erasto,Kagaari/Kanja/276,district of Embu
-2022_VOL109,3443,6754,"Thomas Nyaga John, Silvano Mugendi Njeru",Kyeni/Kigumo/8330 and Kyeni Mufu/9142,district of Embu
-2022_VOL109,3443,6755,Anderea M’Arimi alias M’Arimi M’Matiri,Nthima/Igoki/612, district of Meru
-2022_VOL109,3443,6756,M’Imathiu M’Mitiri ,Nyaki/Thuura/2233, district of Meru
+2022_VOL109,3443,6754,"Thomas Nyaga John, Silvano Mugendi Njeru","Kyeni/Kigumo/8330 , Kyeni Mufu/9142",district of Embu
+2022_VOL109,3443,6755,Anderea MArimi alias MArimi MMatiri,Nthima/Igoki/612, district of Meru
+2022_VOL109,3443,6756,MImathiu MMitiri ,Nyaki/Thuura/2233, district of Meru
 2022_VOL109,3444,6757,Kahia Giathi,Gong/Gong/6101, district of Kajiado
 2022_VOL109,3444,6758,Walter Okello Ogutu ,Kajiado/Kitengela/15037, district of Kajiado
 2022_VOL109,3444,6759,Sylvester Chibo Mwarome,Kilifi/Roka/750,
@@ -519,19 +519,19 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2023_VOL168,3148,9579,Mohamed Farah Mohamed,Mombasa/Block XI/416,Mombasa Municipality in the Mombasa District
 2023_VOL168,3148,9580,Amon Muturi Kiarie,"10496-Malindi, 28608",Malindi Municipality in Kilifi District
 2023_VOL168,3148,9581,Alfred Kahindi Mukare,"20 Mida ,  12630",Kilifi District
-2023_VOL168,3149,9582,Jackline Akinyi Odhiambo and (2) Paul Amimo Odhiambo,Nairobi/Block 72/2160,district of Nairobi
+2023_VOL168,3149,9582,Jackline Akinyi Odhiambo  Paul Amimo Odhiambo,Nairobi/Block 72/2160,district of Nairobi
 2023_VOL168,3149,9583,Winnie Njeri Kagiri,209/4482,city of Nairobi in the Nairobi Area
 2023_VOL168,3149,9584,Marian Ali Ahmed ,Nairobi/Block 82/7301,district of Nairobi
-2023_VOL168,3149,9585,"Deepak Kumar Karkhchand Bid and (2) Shilpa Deepak Bid, ",23137,city of Nairobi in the Nairobi Area
+2023_VOL168,3149,9585,"Deepak Kumar Karkhchand Bid , (2) Shilpa Deepak Bid, ",23137,city of Nairobi in the Nairobi Area
 2023_VOL168,3149,9586,Southern Sahil Company Limited,209/89/16,city of Nairobi in the Nairobi Area
 2023_VOL168,3149,9587,Southern Sahil Company Limited,209/89/15,city of Nairobi in the Nairobi Area
 2023_VOL168,3149,9588,Hussein Shabbir Kassamjee,Ug/Illulla Settlement Scheme/2812,"district of Uasin Gishu, "
 2023_VOL168,3149,9589,James Mirewa Anyango,Uasin Gishu/Tapsagoi/3,district of Uasin Gishu
-2023_VOL168,3150,9590,Harry Kiptoo Kipsuto ,"Tarakwa/Lainguse Block 2(Koiluget) 134, ",district of Uasin Gishu
+2023_VOL168,3150,9590,Harry Kiptoo Kipsuto ,Tarakwa/Lainguse Block 2(Koiluget) 134,district of Uasin Gishu
 2023_VOL168,3150,9591,Amos Onyango Dianga,Kisumu/Marera/5129,district of Kisumu
 2023_VOL168,3150,9592, David Ngigi Mboli,Bahati/Kabatini Block 1/21042 (Ndeffo),district of Nakuru
 2023_VOL168,3150,9593,David Ngigi Mboli ,Bahati/Kabatini Block 1/21347,district of Nakuru
-2023_VOL168,3150,9594,David Ngigi Mboli and (2) Francis Mwangi Mbochi,Bahati/Kabatini Block 1/21041,district of Nakuru
+2023_VOL168,3150,9594,"David Ngigi Mboli , Francis Mwangi Mbochi",Bahati/Kabatini Block 1/21041,district of Nakuru
 2023_VOL168,3150,9595,Mary Wamboi Wahome,Nakuru/Rare/Kiriri/694,district of Nakuru
 2023_VOL168,3150,9596,Makokha Sibeto,Samia/Bujwanga/431,district of Busia
 2023_VOL168,3150,9597,Jackton Hannington Musundi,Marach/Bumala/975,district of Busia
@@ -552,11 +552,11 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2023_VOL168,3152,9612,Joseph Kilwake Mulati,Ndivi/Ndivisi/1931,district of Bungoma
 2023_VOL168,3152,9613,George Namake Waliaula,W. Bukusu/S. Mateka 6201,district of Bungoma
 2023_VOL168,3153,9614,Morris Mukite,Bungoma Soysambu/1582,district of Bungoma
-2023_VOL168,3153,9615,Isaac Alinyo Okaka,"Kimilili/Kibingei/2185, 2328 and 2329",district of Bungoma
+2023_VOL168,3153,9615,Isaac Alinyo Okaka,"Kimilili/Kibingei/2185, 2328 , 2329",district of Bungoma
 2023_VOL168,3153,9616,Zippora Koroti,E. Bukusu/N. Kanduyi/8081,district of Bungoma
 2023_VOL168,3153,9617,Wycliffe Keneth Muyekho Mukhonyi,Bokoli/Chwele/177,district of Bungoma
 2023_VOL168,3153,9618,Zebedee Maombo Bukania,Bungoms/Township/489,district of Bungoma
-2023_VOL168,3153,9619,Priscilla Ong’ayo,Kimilili/Kimilili/3469,district of Bungoma
+2023_VOL168,3153,9619,Priscilla Ongayo,Kimilili/Kimilili/3469,district of Bungoma
 2023_VOL168,3153,9620,Samuel Wanasunia Likoko,Ndivisi/Khalumuli/2782,district of Bungoma
 2023_VOL168,3153,9621,Gregory Karoli Chybire,E. Bukusu/S. Kanduyi/3369,district of Bungoma
 2023_VOL168,3154,9622,Hildah Wangari Gathuri,Ruiru/Ruiru East Block 3/1349,district of Ruiru
@@ -565,20 +565,20 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2023_VOL168,3154,9625,Nehemiah Kirenga Muchenji,Chinga/Gathera/D. 1436,district of Nyeri
 2023_VOL168,3154,9626,Simon Mwangi Maina,Githi/Kirerema/774,district of Nyeri
 2023_VOL168,3154,9627,"Josphat Kimani Wanjiku, Nyonji Njui, Jane Wamuhu Nyonji, John Gathirwa Kanyiri , Bernard Munene Kariku",Ngenda/Nyamangara/1539,district of Gatundu
-2023_VOL168,3154,9628,George Gathuru Kiarie,Mitubiri/Wempa/Block 1/4155,district of Murang’a
-2023_VOL168,3154,9629,Simon Mwangi Njogu,Makuyu/Makuyu Block 2/697 and 991,district of Murang’a
+2023_VOL168,3154,9628,George Gathuru Kiarie,Mitubiri/Wempa/Block 1/4155,district of Muranga
+2023_VOL168,3154,9629,Simon Mwangi Njogu,"Makuyu/Makuyu Block 2/697 , 991",district of Muranga
 2023_VOL168,3155,9630,Mark Mwenda,Timau/Timau Block 5/608,district of Meru
 2023_VOL168,3155,9631,Mwari Mbugua,Kiirua/Nkando/4767,district of Meru
 2023_VOL168,3155,9632,Josphine Muuria Karaigua,Abothuguchi/Gaitu/3905,district of Meru
-2023_VOL168,3155,9633,Njira Kang’arua Gatambu,Mbeere/Kiambere/955,district of Mbeere
+2023_VOL168,3155,9633,Njira Kangarua Gatambu,Mbeere/Kiambere/955,district of Mbeere
 2023_VOL168,3155,9634,Mwaniki Nyaga Mwara, Ngandori/kirigi/7449,district of Embu
 2023_VOL168,3155,9635,Clement Joseph Mwangi ,Maela/Ndabibi Block 3/642,district of Naivasha
 2023_VOL168,3155,9636,Veronicah Wanjiku Kabiro,Miti Mingi/Mbaruk Block 11/295,district of Naivasha
 2023_VOL168,3155,9637,"Joseph Macharia Wachira, Patrick Ndungu Wangechi, Elizabeth Njeri Maina",Euasonyiro/Ilpejeta Block 1/753,district of Laikipia
-2023_VOL168,3156,9638, Muturi Wanaina Muturi ,Sosian/Sosian Block 2/2117 (Narock Ranch),
+2023_VOL168,3156,9638, Muturi Wanaina Muturi ,Sosian/Sosian Block 2/2117 ,
 2023_VOL168,3156,9639, John Wataki Kamau,Laikipia/Nyahururu/8302,
-2023_VOL168,3156,9640,Geoffrey Obora Opondo,Laikipia/Ol’Arabel/996,
-2023_VOL168,3156,9641,Veronica Muthoni Kang’ara,Marmanet North/Rumuruti Block 2/1085, district of Laikipia
+2023_VOL168,3156,9640,Geoffrey Obora Opondo,Laikipia/OlArabel/996,
+2023_VOL168,3156,9641,Veronica Muthoni Kangara,Marmanet North/Rumuruti Block 2/1085, district of Laikipia
 2023_VOL168,3156,9642, Caroline Mwende Masila,Mitaboni/Mitaboni/4248,district of Machakos
 2023_VOL168,3156,9643,Jackson Nzioki Paul,Muputi/Kiima-Kimwe/2941,district of Machakos
 2023_VOL168,3156,9644,Duncal Properties Limited,Donyo Sabuk/Komarock Block 1/59720,district of Machakos
@@ -617,35 +617,35 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2023_VOL168,3161,9677,Francis Mwangi Macharia,Njoro/Ngata Block 3/574,district of Nakuru
 2023_VOL168,3161,9678," John Mwangi Wachira , John Kenduiywa Kimngeno",Shawa/Gicheha Block 10/38,district of Nakuru
 2023_VOL168,3161,9679,Joseph Gicheha Njoroge,Nakuru/Olongai/117,district of Nakuru
-2023_VOL168,3161,9680,Paul Maina Mwangi ,Laikipia Nanyuki Marura Block 1/1108 (Ichuga),district of Laikipia
+2023_VOL168,3161,9680,Paul Maina Mwangi ,Laikipia Nanyuki Marura Block 1/1108 ,district of Laikipia
 2023_VOL168,3161,9681,Martin Elungatta Omella,North Teso/Kocholia/3967,district of Busia
 2023_VOL168,3161,9682,Devid Omudek Osingah,North Teso/Kocholia/5026,district of Busia
 2023_VOL168,3161,9683,Fredrick Wekesa Webukhulu,E. Bukusu/S. Kanduyi/9655,district of Bungoma
 2023_VOL168,3161,9684,Benedict Makokha Barasa,Bungoma/Kiminini/625,district of Bungoma
 2023_VOL168,3162,9685,Harrison Mukhwana Kanyanya,E. Bukusu/S. Nalondo/4280,district of Bungoma
-2023_VOL168,3162,9686,Johnforce Chembukha Makhakha,E. Bukusu/N. Sang’alo/4700,district of Bungoma
+2023_VOL168,3162,9686,Johnforce Chembukha Makhakha,E. Bukusu/N. Sangalo/4700,district of Bungoma
 2023_VOL168,3162,9687,Daniel Muriithi Gikama,Mutira/Kaguyu/3639,district of Kirinyaga
 2023_VOL168,3162,9688,Hezekia Njibu Mbugua,Laikipia/Nyahururu/12981,district of Laikipia
 2023_VOL168,3162,9689,Joseph Njuguna Kimani ,Kajiado/Enkariak Rongena/4080,district of Kajiado
 2023_VOL168,3162,9690,Caroline Kaigongi Mwongera,Kajiado/Kitengela/59798,district of Kajiado
 2023_VOL168,3162,9691,David Kiplagat Koskei,Kapsabet Municipality/33, district of Nandi
-2023_VOL168,3163,9692,Joel Wambua Kungu,Kakuzi/Kirimiri Block 9/688,district of Murang’a
-2023_VOL168,3163,9693, James Karagu Gichuru,Samuru/Mwitingiri/Block.I/441,district of Murang’a
+2023_VOL168,3163,9692,Joel Wambua Kungu,Kakuzi/Kirimiri Block 9/688,district of Muranga
+2023_VOL168,3163,9693, James Karagu Gichuru,Samuru/Mwitingiri/Block.I/441,district of Muranga
 2023_VOL168,3163,9694,United Insurance Company Limited,Kwale/Shimoni Adj/409,district of Kwale
-2023_VOL168,3163,9695,"Kahindi Karisa Mwango, Safari Karisa Mwango, Jackson K. Musango, Karisa S. Mwango , Jackson K. Karisa",Kilifi/Mwanda/Mbalamweni/4022 and 4023,district of Kilifi
+2023_VOL168,3163,9695,"Kahindi Karisa Mwango, Safari Karisa Mwango, Jackson K. Musango, Karisa S. Mwango , Jackson K. Karisa","Kilifi/Mwanda/Mbalamweni/4022 , 4023",district of Kilifi
 2023_VOL168,3163,9696, Barnabas Chepkoiywo Tures,Sergoit/Elgeyo Border Block 1 (Beliomo)/299,district of Uasin Gishu
-2023_VOL168,3163,9697, Wambugu Wang’ombe ,Uasin Gishu/Kimumu/1995,district of Uasin Gishu
+2023_VOL168,3163,9697, Wambugu Wangombe ,Uasin Gishu/Kimumu/1995,district of Uasin Gishu
 2023_VOL168,3163,9698,Thuo Mathenge,Ruguru/Gachika/275,district of Nyeri
-2023_VOL168,3164,9699,Peter Sementero Kimani ,Dundori/Lanet Block 4/1476 (Nyonjoro),district of Nakuru
-2023_VOL168,3164,9700,Peter Sementero Kimani ,Dundori/Lanet Block 4/1485 (Nyonjoro),district of Nakuru
-2023_VOL168,3164,9701,Peter Sementero Kimani ,Dundori/Lanet Block 4/1475 (Nyonjoro),district of Nakuru
+2023_VOL168,3164,9699,Peter Sementero Kimani ,Dundori/Lanet Block 4/1476 ,district of Nakuru
+2023_VOL168,3164,9700,Peter Sementero Kimani ,Dundori/Lanet Block 4/1485 ,district of Nakuru
+2023_VOL168,3164,9701,Peter Sementero Kimani ,Dundori/Lanet Block 4/1475,district of Nakuru
 2023_VOL168,3164,9702,Moris Otieno Ogeda,Kisumu/Othany/2295,district of Kisumu
 2023_VOL168,3164,9703,Julius Sikuku Naibei ,N. Malakisi/W. Sasuri/158, district of Bungoma
 2023_VOL168,3164,9704,Mark Wekesa Kulabusia,N. Ndivisi/Ndivisi/1204, district of Bungoma
 2023_VOL168,3165,9705,Jonathan Njalale Barasa,E. Bukusu/S. Kanduyi/2112, district of Bungoma
 2023_VOL168,3165,9706, John Baptista Ndamberi Kanyoni,Ruiru/Ruiru East Block 3/250,district of Ruiru
 2023_VOL168,3165,9707,Wanyaga Wamai,Mahiga/Rokera/351,district of Nyeri
-2023_VOL168,3165,9708,Ndungu Githinji ,Loc.3/Kariua/690 and Loc.3/Gacharage/423,district of Murang’a
+2023_VOL168,3165,9708,Ndungu Githinji ,"Loc.3/Kariua/690 , Loc.3/Gacharage/423",district of Muranga
 2023_VOL168,3165,9709,Eunice Njoki Kihungi ,Mwea/Mutithi/Scheme/579, district of Kirinyaga
 2023_VOL168,3165,9710,Kamurutu Njaimwe alias Kamuturio Njaimwe,Mwerua/Kagio-ini/829, district of Kirinyaga
 2023_VOL168,3166,9711,Esther Wamarwa Nyamu ,Mwea/Tebere/B/1093, district of Kirinyaga
@@ -654,13 +654,13 @@ Omondi Sundia, Fredrick Odhiambo","Uholo/Madungu/1284, 1253, 1282, 1252 and 1283
 2023_VOL168,3166,9714,Wainaina Mwaura,Ndarugu/Gakoe/T. 343, district of Gatundu
 2023_VOL168,3166,9715,Wainaina Mwaura,Ndarugu/Gakoe/T. 205, district of Gatundu
 2023_VOL168,3166,9716,Peter Njiru Ishmael alias Peter Ishumael ,Gaturi/Githimu/1120,district of Embu
-2023_VOL168,3167,9717,Simon Ndung’u King’e ,"Naivasha/Mwichiringiri Block 4/14057, 14068, 14069, 14070 (Mirera), Longonot/Kijabe Block 6/813 (Kiambu Nyakinyua), Naivasha Moi Ndabi/664",district of Naivasha
-2023_VOL168,3167,9718,Margaret Wanjugu Rubara,Laikipia/Gituamba/Thigio Block I/187 (Kiambogo),district of Laikipia
+2023_VOL168,3167,9717,Simon Ndungu Kinge ,"Naivasha/Mwichiringiri Block 4/14057, 14068, 14069, 14070 (Mirera), Longonot/Kijabe Block 6/813 (Kiambu Nyakinyua), Naivasha Moi Ndabi/664",district of Naivasha
+2023_VOL168,3167,9718,Margaret Wanjugu Rubara,Laikipia/Gituamba/Thigio Block I/187,district of Laikipia
 2023_VOL168,3167,9719,Denis Oduor Ouma ,Ngong/Ngong/56719, district of Kajiado
 2023_VOL168,3167,9720,Dalmas Oloo Oguok,E. Kasipul/Kojwach Kamioro/961,district of Rachuonyo East
 2023_VOL168,3167,9721,Paula Ngodhe Owiti,W. Kasipul/Kodera Karabach/1243,district of Rachuonyo South
 2023_VOL168,3167,9722,Patience Mwangage Mwakazi,Mbololo/Mraru/1946,district of Taita Taveta
 2023_VOL168,3168,9723,Mwinyihamisi Mohamed Katunza,Kwale/Tiwi/1533,district of Kwale
 2023_VOL168,3168,9724,Pala Tindiri Jamvi ,Kwale/Mkongani B/142,district of Kwale
-2023_VOL168,3168,9725,Elephant Oils Mills Limited,Kwale/Galu Kinondo/351 and the resultant subdivisions Kwale/Galu Kinondo/1713-1760 ,district of Kwale
+2023_VOL168,3168,9725,Elephant Oils Mills Limited,"Kwale/Galu Kinondo/351 , Kwale/Galu Kinondo/1713-1760 ",district of Kwale
 2023_VOL168,3168,9726,Bomo Homes Limited,12221/10,City of Nairobi in the Nairobi Area
