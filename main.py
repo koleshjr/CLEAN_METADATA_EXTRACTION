@@ -2,6 +2,7 @@ import os
 import argparse 
 import pandas as pd
 import warnings
+import re
 warnings.filterwarnings("ignore")
 from src.services.classifier import Classifier
 from src.services.extractor import Extractor
@@ -18,6 +19,17 @@ parser.add_argument('--model_name', type=str, help='model name')
 parser.add_argument('--task_type', type=str, help='either classification or extraction')
 parser.add_argument('--experiment', type=str, help ='Experiment number')
 args = parser.parse_args()
+
+def remove_unwanted(text):
+    if text is None or not text.strip():
+        return ''
+
+    pattern = re.compile(r'\\ufdd0|[\x00-\x08\x0B\x0C\x0E-\x1F]+|[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF\U0001F700-\U0001F77F\U0001F780-\U0001F7FF\U0001F800-\U0001F8FF\U0001F900-\U0001F9FF\U0001FA00-\U0001FA6F\U0001FA70-\U0001FAFF\U00002702-\U000027B0\U000024C2-\U0001F251]+', flags=re.UNICODE)
+    clean_text = pattern.sub('', text)
+    clean_text = clean_text.replace('“A”', '"A"')
+    clean_text = clean_text.replace('“B”', '"B"')
+
+    return clean_text
 
 if __name__ == "__main__":
     llm = Llms(model_provider = args.model_provider, model_name = args.model_name).get_chat_model()
@@ -36,12 +48,13 @@ if __name__ == "__main__":
                 existing_rows = combined_pdf[(combined_pdf['file'] == file) & (combined_pdf['page'] == page_number)]
                 if not existing_rows.empty:
 
-                    combined_pdf.loc[(combined_pdf['file'] == file) & (combined_pdf['page'] == page_number), 'text'] += "\n\n" + page.page_content
+                    combined_pdf.loc[(combined_pdf['file'] == file) & (combined_pdf['page'] == page_number), 'text'] += "\n\n" + remove_unwanted(page.page_content)
                 else:
-                    combined_pdf = combined_pdf.append({'file': file, 'page': page_number, 'text': page.page_content}, ignore_index=True)
+                    combined_pdf = combined_pdf.append({'file': file, 'page': page_number, 'text': remove_unwanted(page.page_content)}, ignore_index=True)
 
             # Save the combined_pdf to CSV after processing all files
             combined_pdf.to_csv(output_file_path, index=False, escapechar='\\')
+            
     else:
         print("Skipping the preprocessing as combined df already exists")
 
