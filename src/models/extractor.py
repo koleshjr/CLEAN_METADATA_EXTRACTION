@@ -1,6 +1,5 @@
 from langchain_core.pydantic_v1 import BaseModel, Field
 from typing import List
-
 class LandRegistrationAct(BaseModel):
     """fields to be extracted from the gazette"""
     gazette_notice_number: str = Field(..., description="extract the gazette notice number from the information.")

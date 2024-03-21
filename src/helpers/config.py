@@ -8,6 +8,7 @@ class Config:
 
       page_text: {page_text}
       """
+    
     data_folder = "src/data/test"
     output_folder = "src/output"
     sample_sub_filepath = "src/data/sample_submission.csv"

@@ -89,7 +89,6 @@ if __name__ == "__main__":
         combined_pdf.to_csv(output_file_path, index=False)
         print("Finished classifaction")
                 
-
     elif args.task_type == 'extraction':
         classified_path = "src\output\classified_pdf.csv"
         classified_pdf = pd.read_csv(classified_path)
@@ -127,4 +126,3 @@ if __name__ == "__main__":
 
     else:
         raise Exception("Invalid task type we currently support only classification and extraction")
-

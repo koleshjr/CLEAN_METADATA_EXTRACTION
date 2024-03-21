@@ -9,7 +9,6 @@ class Llms:
         load_dotenv()
         self.model_provider = model_provider 
         self.model_name = model_name 
-
     def get_chat_model(self):
         if self.model_provider == 'openai':
             return ChatOpenAI(model = self.model_name, openai_api_key = os.getenv('OPENAI_API_KEY'))

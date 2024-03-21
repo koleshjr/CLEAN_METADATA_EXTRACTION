@@ -11,8 +11,7 @@ class Extractor:
             function_call = {"name": "ExtractionOutput"}
         )
         self.custom_prompt = PromptTemplate(template = prompt, 
-                                           input_variables = ["page_text"],
-                                           
+                                           input_variables = ["page_text"],                                 
         )
 
     def predict(self, page_text):
@@ -22,7 +21,6 @@ class Extractor:
             | self.model 
             | JsonOutputFunctionsParser(key_name = "MetadataOutput")
         )
-        
         return chain.invoke({"page_text": page_text})
                                
 

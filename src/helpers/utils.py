@@ -20,8 +20,6 @@ def preprocess_name(name):
         return name
     except:
         return name
-    
-    
 def clean_predictions(df):
     strings_to_remove = ['lr', 'cr', 'deceased', 'titleno', 'plotno', 'portionno', 'lrno', 'crno', 'irno']
     for s in strings_to_remove:
