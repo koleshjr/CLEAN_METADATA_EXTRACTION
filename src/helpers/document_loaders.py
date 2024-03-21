@@ -1,10 +1,8 @@
 import os 
 from langchain_community.document_loaders import PyPDFLoader
-
 class DocumentLoader:
     def __init__(self):
         pass 
-
     def load_and_get_pages(self, folder_path: str):
         res = {}
 

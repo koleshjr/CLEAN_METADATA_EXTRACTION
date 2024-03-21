@@ -11,8 +11,7 @@ class Classifier:
             function_call = {"name": "ClassificationOutput"}
         )
         self.custom_prompt = PromptTemplate(template = prompt, 
-                                           input_variables = ["page_text"],
-                                           
+                                           input_variables = ["page_text"],                                     
         )
 
     def predict(self, page_text):
@@ -22,6 +21,5 @@ class Classifier:
             | self.model 
             | JsonOutputFunctionsParser()
         )
-        
         return chain.invoke({"page_text": page_text})
     
